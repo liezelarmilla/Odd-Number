@@ -8,7 +8,7 @@
 
 int main()
 {
-    
+    // I am the Best!
     int number1;
     printf("\n Enter a number:");
     scanf(" %d", &number1);
